@@ -1,0 +1,42 @@
+.row {
+	padding-top: 60px;
+}
+.email {
+	background-color: #fbfdfd;
+	width: 320px;
+	height: 370px;
+	border: 1px solid #cfdede;
+	display: inline-block;	
+}
+.form {
+	padding-left: 30px ;
+	width: 290px;
+	padding-top: 55px;
+}
+.btn {
+	width: 260px;
+	height: 45px;
+	background-color: #01c3c3;
+	text-transform: uppercase;
+	color: #ffffff;
+}
+.acc {
+	width: 149px;
+	height: 25px;
+	background-color: #01c3c3;
+	text-transform: uppercase;
+	color: #ffffff;
+	padding-top: 5px;
+}
+p {
+	font-size: 12px;
+	text-align: center;
+}
+.ac {
+	padding-top: 20px;
+	margin-bottom: -82px; 
+	position: relative;
+}
+.reg {
+	padding-top: 15px;
+}
